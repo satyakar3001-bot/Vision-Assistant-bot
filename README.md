@@ -5,6 +5,7 @@ afraid to ask unless it is very necessary.
 My aim is to provide them a voice assistant which will narrate the situations of the nearby environment.
 
 Specifications:
+
 -> Model has been trained on Flicker 8k dataset from kaggle.
 
 -> Used resnet-50 model to classify the objects of the images.
