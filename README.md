@@ -6,8 +6,11 @@ My aim is to provide them a voice assistant which will narrate the situations of
 
 Specifications:
 -> Model has been trained on Flicker 8k dataset from kaggle.
+
 -> Used resnet-50 model to classify the objects of the images.
+
 -> Final model is concatination of LSTM and CNN model to generate the next word sequence.
+
 -> Contains files:
         testing on image.pynb:- To test the project on the sample images (in testing folder).
         using_camera:- Captures images from camera
